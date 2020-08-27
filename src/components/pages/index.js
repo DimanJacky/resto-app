@@ -1,9 +1,10 @@
-import MainPage from './main-page';
-import CartPage from './cart-page';
-import ItemPage from './itemPage';
-
+import CharacterPage from './characterPage';
+import BooksPage from './booksPage';
+import HousesPage from './housesPage';
+import BooksItem from './booksItem';
 export {
-    MainPage,
-    CartPage, 
-    ItemPage
-};
+    CharacterPage,
+    BooksPage,
+    HousesPage,
+    BooksItem
+}
